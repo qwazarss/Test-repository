@@ -12,3 +12,7 @@ Test repository
 
 #I am a JS developer. There is example of my code:
 ![My code](https://habrastorage.org/getpro/habr/post_images/03b/dd6/4c0/03bdd64c012e4de2e08e21d89924b62b.png)
+
+#My social pages:
+* Faceit[faceit](https://www.faceit.com/ru)
+* instagram[instagram](https://www.instagram.com/)
