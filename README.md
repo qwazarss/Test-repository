@@ -3,4 +3,5 @@
 Test repository
 
 ### Вчимося працювати з:
-Git
+* Git
+* GitHub
