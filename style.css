@@ -1,0 +1,19 @@
+body{
+	background: rgb(2,0,36);
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,60,1) 26%, rgba(13,142,168,1) 100%);
+	color: 	white;
+}
+div{
+	display: 	flex;
+	align-items: 	center;
+	justify-content: center;	
+	flex-direction: 	column;
+
+}
+.console{
+	background-color: 	black;
+	list-style: square;
+	color: 	white;
+	padding: 	20px;
+	padding-left: 50px; 	
+}
